@@ -16,13 +16,17 @@ Before we begin, make sure you have R and RStudio installed:
 First, we're going to work through a very basic introduction in R, for which you will need the script file "r_intro.R". 
 
 ## RMarkdown
-Next, we'll take a look at RMarkdown, using a number of files:
+Next, we'll take a look at RMarkdown, a few number of files:
+
+1. **RMarkdown_demo.Rmd**---R Markdown file that introduces you to basic concepts, then runs some of the R code from the "r_inro.R" file, creating the output file "RMarkdown_demo.pdf". It also includes some formatting tips if you want a nice-looking, Latex-formatted academic paper, complete with citations, footnotes, etc.
+1. **RMarkdown_slides.Rmd**---Another R Markdown example that makes HTML slides.
+1. **WASHBpublic_mock.dta**---Data for analysis.
+
+There are other example files in here from previous workshops that you can also play around with in your spare time, including: 
 
 1. **RMarkdownHTMLExample.Rmd**---R Markdown file for use in R. When successfully run, it will load data (the WASHpublic_mock.dta file) and run three basic regressions. It uses the stargazer package to create nicely formatted HTML regression tables in outputR.html. That table is included in the final combined output: RMarkdownHTMLExample.html.
-2. **RMarkdownPDFExample.Rmd**---RMarkdownPDFExample.Rmd is similar to the above but makes PDF output. When successfully run, it will load data (the WASHpublic_mock.dta file) and run three basic regressions. This uses the stargazer package to create nicely formatted LaTeX regression tables (outputR.tex). The combined output file is RMarkdownPDFExample.pdf.
-3. **RMarkdownWordExample.Rmd**---Tons of people use Word. So there's an option for that, too.
-4. **WASHBpublic_mock.dta**---Data for analysis
-5. **RMarkdown_formatting.Rmd**---Some extra formatting tips if you want a nice-looking, Latex-formatted academic paper, complete with citations, footnotes, etc.
+1. **RMarkdownPDFExample.Rmd**---RMarkdownPDFExample.Rmd is similar to the above but makes PDF output. When successfully run, it will load data (the WASHpublic_mock.dta file) and run three basic regressions. This uses the stargazer package to create nicely formatted LaTeX regression tables (outputR.tex). The combined output file is RMarkdownPDFExample.pdf.
+1. **RMarkdownWordExample.Rmd**---Tons of people use Word. So there's an option for that, too.
 
 (Don't worry about the Rproj or Rhistory files you may see. That's just R Studio being friendly and keeping track of everything in the background for you if you organize the directory as an R Project.)
 
