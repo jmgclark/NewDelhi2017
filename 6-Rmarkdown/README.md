@@ -16,11 +16,13 @@ Before we begin, make sure you have R and RStudio installed:
 First, we're going to work through a very basic introduction in R, for which you will need the script file "r_intro.R". 
 
 ## RMarkdown
-Next, we'll take a look at RMarkdown, a few number of files:
+Next, we'll take a look at RMarkdown, using the following files which you should download (or fork and clone):
 
 1. **RMarkdown_demo.Rmd**---R Markdown file that introduces you to basic concepts, then runs some of the R code from the "r_inro.R" file, creating the output file "RMarkdown_demo.pdf". It also includes some formatting tips if you want a nice-looking, Latex-formatted academic paper, complete with citations, footnotes, etc.
 1. **RMarkdown_slides.Rmd**---Another R Markdown example that makes HTML slides.
 1. **WASHBpublic_mock.dta**---Data for analysis.
+1. **my_bib.bib**---Bibliography in BibTeX format to use in RMarkdown_demo.Rmd
+1. **de-identification_indirect.png**---Example image we'll embed in RMarkdown_demo.Rmd
 
 There are other example files in here from previous workshops that you can also play around with in your spare time, including: 
 
