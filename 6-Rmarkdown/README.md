@@ -37,7 +37,7 @@ That's it. There's one step. Open a .Rmd file and click Knit. It's beautiful. Yo
 # Activity
 Next, we'll have some time for another choose-your-own-adventure activity. Options include:
 
-- Go through some of the basic R tutorials using 'swirl'. Do to this, follow the instructions at the end of the  'r_studio.R' file.
+- Go through some of the basic R tutorials using 'swirl'. Do to this, follow the instructions at the end of the  'r_intro.R' file.
 
 - If you're a little more comfortable in R, try writing your own RMarkdown document. There are lots of tips on the [RStudio website](http://rmarkdown.rstudio.com/lesson-1.html) and a good [reference guide here](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf). If you want to tinker with the RMarkdown formatting to write a really nice looking academic paper, check out [this link](http://svmiller.com/blog/2016/02/svm-r-markdown-manuscript/)
 
